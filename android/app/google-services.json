@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "337840706365",
+    "project_id": "dogneedsyou",
+    "storage_bucket": "dogneedsyou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337840706365:android:89e0adeb2cfd49bb3e2b54",
+        "android_client_info": {
+          "package_name": "com.example.DogNeedsYou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337840706365-4djl4ed1nmake8v4826pti2pido805v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.DogNeedsYou",
+            "certificate_hash": "d2e37770f62ca28f54117f92fd97f6b24c5708be"
+          }
+        },
+        {
+          "client_id": "337840706365-nbo42ohvctj49us5c4360d8vn11eghl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXLwMNix8lbaFLVq5GGUE_PanJNz70Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337840706365-nbo42ohvctj49us5c4360d8vn11eghl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
