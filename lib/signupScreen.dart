@@ -41,7 +41,7 @@ class _SignUpState extends State<SignUp> {
           children: [
             new TextFormField(
               decoration: new InputDecoration(
-                  hintText: "Enter Mail",
+                  hintText: "Enter E-Mail",
                   hintStyle: GoogleFonts.poppins(
                       fontSize: 25,
                       color: Colors.grey[600],
